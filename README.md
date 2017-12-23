@@ -5,6 +5,7 @@ MATLAB学习
 * http://www.yiibai.com/matlab/（成套教程）
 * http://blog.csdn.net/lxdfigo/article/details/8279962
 * 视频：http://www.51zxw.net/list.aspx?cid=456
+* 论坛资料：http://www.matlabsky.com/
 
 * clc  清屏
 clear all 清除command窗口中的所有内容（包括已定义的变量）
