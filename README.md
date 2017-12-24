@@ -1,10 +1,16 @@
 # Matlab-learning
 MATLAB学习
+### 软件下载：
+http://www.10matlab.com/download/
 
 #### 教程
 * http://www.yiibai.com/matlab/（成套教程）
 * http://blog.csdn.net/lxdfigo/article/details/8279962
-* 视频：http://www.51zxw.net/list.aspx?cid=456
+* 视频：
+  * http://www.51zxw.net/list.aspx?cid=456
+  * https://mp.weixin.qq.com/s?__biz=MjM5MDE3OTk2Ng==&mid=2657432875&idx=4&sn=330a127420883a2bb3d47d57ab939162&chksm=bdd9223a8aaeab2c7396ba3688abe16e846baaea794b5675be63aec7803c00388a1b9ebe3657&mpshare=1&scene=23&srcid=1224BT482AmqZ66u0lJ9uY8k#rd
+  * 10天学会MATLAB教程http://www.10matlab.com(要花钱买)
+
 * 论坛资料：http://www.matlabsky.com/
 
 * clc  清屏
