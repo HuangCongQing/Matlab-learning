@@ -4,7 +4,7 @@ MATLAB学习
 http://www.10matlab.com/download/
 
 #### 教程
-* http://www.yiibai.com/matlab/（成套教程）
+* http://www.yiibai.com/matlab/（成套教程，我所学的）
 * http://blog.csdn.net/lxdfigo/article/details/8279962
 * 视频：
   * http://www.51zxw.net/list.aspx?cid=456
