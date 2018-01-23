@@ -1,0 +1,6 @@
+% http://www.51zxw.net/show.aspx?id=33623&cid=456
+x = 0:0.1:2*pi; % 步长0.1就行
+y1 = sin(x);
+
+plot(x, y1);
+xlable
